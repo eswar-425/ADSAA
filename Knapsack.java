@@ -37,3 +37,10 @@ public static void main(String args[]){
     System.out.println("Maximum profit in Knapsack: "+maxprofit);
     }
 }
+
+Output:
+Items placed in the bag:
+Item: (Weight: 10, profit: 60) - Taken Fully
+Item: (Weight: 20, profit: 100) - Taken Fully
+Item: (Weight: 20.0 profit: 80.0) - Taken 66.66666666666666%
+Maximum profit in Knapsack: 240.0
